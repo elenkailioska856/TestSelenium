@@ -1,0 +1,42 @@
+1679327045225	geckodriver	INFO	Listening on 127.0.0.1:61474
+1679327045573	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61475" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dd/xm0c0ym57szblmv0rtb38hnh0000gp/T/rust_mozprofileTJ3Om5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679327057955	Marionette	INFO	Marionette enabled
+1679327058176	Marionette	INFO	Listening on port 61491
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 61491
+WebDriver BiDi listening on ws://127.0.0.1:61475
+1679327058306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/dd/xm0c0ym57szblmv0rtb38hnh0000gp/T/rust_mozprofileTJ3Om5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61475/devtools/browser/15115382-184e-45ce-b364-0bb9e4899145
+1679327117623	geckodriver	INFO	Listening on 127.0.0.1:61585
+1679327118127	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61586" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dd/xm0c0ym57szblmv0rtb38hnh0000gp/T/rust_mozprofileuNpZ09"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679327118549	Marionette	INFO	Marionette enabled
+1679327118753	Marionette	INFO	Listening on port 61591
+Read port: 61591
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61586
+1679327118856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/dd/xm0c0ym57szblmv0rtb38hnh0000gp/T/rust_mozprofileuNpZ09/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61586/devtools/browser/18fc880a-9d6c-4f2d-b871-e474749b1cfa
+1679327237196	geckodriver	INFO	Listening on 127.0.0.1:61700
+1679327237705	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61701" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dd/xm0c0ym57szblmv0rtb38hnh0000gp/T/rust_mozprofileB8E8BB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679327238133	Marionette	INFO	Marionette enabled
+1679327238341	Marionette	INFO	Listening on port 61709
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61701
+Read port: 61709
+1679327238559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/dd/xm0c0ym57szblmv0rtb38hnh0000gp/T/rust_mozprofileB8E8BB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61701/devtools/browser/1167ca36-9a02-4951-b349-3f2ba7c21e0e
+1679327363647	Marionette	INFO	Stopped listening on port 61709
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1679327366317	Marionette	INFO	Stopped listening on port 61591
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1679327368859	Marionette	INFO	Stopped listening on port 61491
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
